@@ -801,7 +801,7 @@ Norm-referenced grading systems are based on a pre-established formula regarding
 <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#boolean"/>
 </owl:DatatypeProperty>
 <!--
-http://www.UniversityReferenceOntology.org/HERO#HighResearchUniversity
+http://www.UniversityReferenceOntology.org/HERO#HighResearchUniversity owl:sameAs owl:sameAs <http://dbpedia.org/ontology/University>
 -->
 <owl:DatatypeProperty rdf:about="http://www.UniversityReferenceOntology.org/HERO#HighResearchUniversity">
 <rdfs:subPropertyOf rdf:resource="http://www.UniversityReferenceOntology.org/HERO#DoctoralResearchUniversity"/>
